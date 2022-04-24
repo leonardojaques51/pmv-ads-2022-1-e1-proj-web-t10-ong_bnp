@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# SITE ONG
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENT ODE SISTEMAS`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`1° SEMESTRE - 2022`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-*  Thiago Almeida Amorim 1
-* Nome completo do aluno 2
+*  Thiago Almeida Amorim 
+* <a href="https://github.com/Ieeeza"> César Pereira dos Santos Filho</a>
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
 
