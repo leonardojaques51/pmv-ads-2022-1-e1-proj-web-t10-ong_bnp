@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 *  Thiago Almeida Amorim 
 * <a href="https://github.com/Ieeeza"> César Pereira dos Santos Filho</a>
-* Nome completo do aluno 3
+* Leonardo Jaques
 * Nome completo do aluno 4
 
 ## Orientador
